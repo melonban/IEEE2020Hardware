@@ -1,0 +1,24 @@
+List of Resources for programming motor encoders
+
+The motor itself:
+https://www.amazon.com/uxcell-Motor-Encoder-201RPM-Ratio/dp/B0792SBB5T/
+
+AndrewJkramer on Encoder Motors and PID:
+https://andrewjkramer.net/motor-encoders-arduino/
+http://andrewjkramer.net/pid-motor-control/
+http://andrewjkramer.net/arduino-odometry/
+
+Odometry:
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/study-materials/odomtutorial.pdf
+
+Interrupts:
+https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/
+http://gammon.com.au/interrupts
+https://www.tutorialspoint.com/arduino/arduino_interrupts.htm
+https://www.teachmemicro.com/arduino-interrupt-tutorial/
+https://roboticsbackend.com/arduino-interrupts/
+https://circuitdigest.com/microcontroller-projects/arduino-interrupt-tutorial-with-examples
+https://microcontrollerslab.com/use-arduino-interrupts-examples/
+
+Using Millis for Delay:
+https://learn.adafruit.com/multi-tasking-the-arduino-part-1/using-millis-for-timing
